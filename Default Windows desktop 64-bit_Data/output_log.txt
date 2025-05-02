@@ -1,0 +1,159 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics (ID=0x4628)
+    Vendor:   Intel
+    VRAM:     2107 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.565800 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 6568 -> priority: 1 
+  Thread -> id: 4c4c -> priority: 1 
+  Thread -> id: 3138 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.088400 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.456000 ms (FindLiveObjects: 0.019700 ms CreateObjectMapping: 0.006200 ms MarkObjects: 0.141500 ms  DeleteObjects: 0.287900 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.336500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 0.510700 ms (FindLiveObjects: 0.060600 ms CreateObjectMapping: 0.018000 ms MarkObjects: 0.256000 ms  DeleteObjects: 0.175500 ms)
+
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.500800 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 1.954700 ms (FindLiveObjects: 0.025100 ms CreateObjectMapping: 0.010800 ms MarkObjects: 0.329100 ms  DeleteObjects: 1.589100 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.971900 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 1.514700 ms (FindLiveObjects: 0.125600 ms CreateObjectMapping: 0.094100 ms MarkObjects: 0.749500 ms  DeleteObjects: 0.543700 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.213400 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 3.305900 ms (FindLiveObjects: 0.048500 ms CreateObjectMapping: 0.016700 ms MarkObjects: 0.560900 ms  DeleteObjects: 2.678500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439800 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 0.599400 ms (FindLiveObjects: 0.064600 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.307900 ms  DeleteObjects: 0.210600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.540600 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 2.470800 ms (FindLiveObjects: 0.052700 ms CreateObjectMapping: 0.014400 ms MarkObjects: 0.348900 ms  DeleteObjects: 2.053600 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.856500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 0.757600 ms (FindLiveObjects: 0.092700 ms CreateObjectMapping: 0.022200 ms MarkObjects: 0.368800 ms  DeleteObjects: 0.273200 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+coroutine->IsInList()
+ 
+(Filename:  Line: 159)
+
+coroutine->IsInList()
+ 
+(Filename:  Line: 159)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.954800 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 5.629100 ms (FindLiveObjects: 0.047000 ms CreateObjectMapping: 0.025000 ms MarkObjects: 0.729300 ms  DeleteObjects: 4.826300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460400 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1508.
+Total: 0.591000 ms (FindLiveObjects: 0.078200 ms CreateObjectMapping: 0.014600 ms MarkObjects: 0.290300 ms  DeleteObjects: 0.206300 ms)
+
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\PMLS\Videos\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+5/1/2025 6:34:45 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.779700 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 3.999700 ms (FindLiveObjects: 0.067100 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.048400 ms  DeleteObjects: 2.847400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.808800 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.744600 ms (FindLiveObjects: 0.123500 ms CreateObjectMapping: 0.067000 ms MarkObjects: 0.963600 ms  DeleteObjects: 0.589100 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.703500 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 2.360900 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.009200 ms MarkObjects: 0.430500 ms  DeleteObjects: 1.896000 ms)
+
